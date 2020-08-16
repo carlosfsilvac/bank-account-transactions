@@ -19,10 +19,12 @@ Use Postman, Insomnia or whatever you prefer to access the routes of the applica
 
 JSON object to create:
 
+```
 {
    title: 'Salary',
    type: 'income',
    value: 3000,
 }
+```
 
 Note: the type must be only "income" or "outcome".
