@@ -28,3 +28,5 @@ JSON object to create:
 ```
 
 Note: the type must be only "income" or "outcome".
+
+If you want to see the application tests running, please run ```yarn test```.
